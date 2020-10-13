@@ -10,6 +10,7 @@ The goal is to find the earliest time when the frog can jump to the other side o
 
 For example, you are given integer X = 5 and array A such that:
 
+```
   A[0] = 1
   A[1] = 3
   A[2] = 1
@@ -18,7 +19,8 @@ For example, you are given integer X = 5 and array A such that:
   A[5] = 3
   A[6] = 5
   A[7] = 4
-  
+```
+
 In second 6, a leaf falls into position 5. This is the earliest time when leaves appear in every position across the river.
 
 Write a function:
@@ -31,6 +33,7 @@ If the frog is never able to jump to the other side of the river, the function s
 
 For example, given X = 5 and array A such that:
 
+```
   A[0] = 1
   A[1] = 3
   A[2] = 1
@@ -39,7 +42,8 @@ For example, given X = 5 and array A such that:
   A[5] = 3
   A[6] = 5
   A[7] = 4
-  
+```
+
 the function should return 6, as explained above.
 
 Write an efficient algorithm for the following assumptions:
