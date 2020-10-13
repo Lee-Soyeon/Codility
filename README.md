@@ -19,3 +19,5 @@
 
 * [FrogRiverOne](https://github.com/Lee-Soyeon/Codility/blob/master/FrogRiverOne.md)
 * [MaxCounters](https://github.com/Lee-Soyeon/Codility/blob/master/MaxCounters.md)
+* [MissingInteger](https://github.com/Lee-Soyeon/Codility/blob/master/MissingInteger.md)
+* [PermCheck](https://github.com/Lee-Soyeon/Codility/blob/master/PermCheck.md)
