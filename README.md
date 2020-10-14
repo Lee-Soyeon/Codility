@@ -21,3 +21,9 @@
 * [MaxCounters](https://github.com/Lee-Soyeon/Codility/blob/master/MaxCounters.md)
 * [MissingInteger](https://github.com/Lee-Soyeon/Codility/blob/master/MissingInteger.md)
 * [PermCheck](https://github.com/Lee-Soyeon/Codility/blob/master/PermCheck.md)
+
+## Lesson 5 - Prefix Sums
+
+
+* [CountDiv](https://github.com/Lee-Soyeon/Codility/blob/master/CountDiv.md)
+* [GenomicRangeQuery](https://github.com/Lee-Soyeon/Codility/blob/master/GenomicRangeQuery.md)
